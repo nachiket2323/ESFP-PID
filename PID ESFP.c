@@ -23,7 +23,7 @@ int main(){
 
 void intro(){
     printf("******\n\n");
-    printf("      WELCOME TO INWARD AND OUTWARD REGISTER        \n");
+    printf("      WELCOME TO STARTUP DATA DISPLAY         \n");
     printf("      PROJECT BY\n");
     printf("      Patel Nachiket \n");
     printf("      SUBJECT-ESFP\n\n");
